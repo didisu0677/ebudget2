@@ -1,0 +1,18 @@
+{
+    "field": {
+        "id": "primary_key",
+        "kode_cabang": "varchar",
+        "nama_cabang": "varchar",
+        "link": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "kode_cabang": "Kode Cabang",
+        "nama_cabang": "Nama Cabang",
+        "link": "Link",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}
